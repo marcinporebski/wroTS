@@ -1,0 +1,16 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.18.0",
+    "trymax": "0.1.1"
+  }
+}
